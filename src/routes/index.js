@@ -1,9 +1,9 @@
 const routes = {
   api: {
     // * Auth
-    login: () => '/login',
+    login: () => '/auth/login',
     // * users
-    allUsers: () => '/get-all',
+    allUsers: () => '/user/get-all',
    
   },
 };
