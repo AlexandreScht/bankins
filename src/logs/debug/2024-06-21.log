@@ -1,0 +1,261 @@
+2024-06-21 17:52:42 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 17:53:10 info: [0mGET /api/login [33m404[0m 4.448 ms - 70[0m
+2024-06-21 17:53:34 info: [0mGET /api/auth/login [32m200[0m 1.501 ms - 4[0m
+2024-06-21 17:56:05 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 17:59:53 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:00:46 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:01:22 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:03:41 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:05:49 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:06:44 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:07:10 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:07:27 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:07:55 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:08:47 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:09:24 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:09:33 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:09:39 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:10:03 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:13:34 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:13:40 info: [0mGET /api/auth/login [33m404[0m 3.751 ms - 75[0m
+2024-06-21 18:14:39 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:15:00 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:18:39 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:18:45 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:18:54 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:20:01 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:20:51 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:20:53 info: [0mPOST /api/auth/login [33m422[0m 17.550 ms - 479[0m
+2024-06-21 18:21:06 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:21:07 info: [0mPOST /api/auth/login [33m422[0m 5.828 ms - 479[0m
+2024-06-21 18:22:09 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:22:18 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:23:22 info: [0mPOST /api/auth/login [31m500[0m 17.120 ms - 835[0m
+2024-06-21 18:23:44 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:23:46 info: [0mPOST /api/auth/login [31m500[0m 17.642 ms - 835[0m
+2024-06-21 18:24:27 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:24:29 info: [0mPOST /api/auth/login [31m500[0m 15.102 ms - 835[0m
+2024-06-21 18:24:54 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:24:57 info: [0mPOST /api/auth/login [31m500[0m 18.971 ms - 835[0m
+2024-06-21 18:25:03 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:27:47 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:27:57 info: [0mPOST /api/auth/login [31m500[0m 22.925 ms - 835[0m
+2024-06-21 18:28:36 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:28:47 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:28:57 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:28:59 info: [0mPOST /api/auth/login [31m500[0m 21.363 ms - 835[0m
+2024-06-21 18:29:17 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:29:19 info: [0mPOST /api/auth/login [31m500[0m 19.344 ms - 835[0m
+2024-06-21 18:30:15 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:30:17 info: [0mPOST /api/auth/login [31m500[0m 17.708 ms - 835[0m
+2024-06-21 18:30:43 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:30:45 info: [0mPOST /api/auth/login [31m500[0m 16.766 ms - 835[0m
+2024-06-21 18:30:51 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:30:53 info: [0mPOST /api/auth/login [31m500[0m 15.619 ms - 799[0m
+2024-06-21 18:31:15 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:31:19 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:31:50 info: [0mPOST /api/auth/login [31m500[0m 18.334 ms - 835[0m
+2024-06-21 18:33:54 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:34:06 info: [0mPOST /api/auth/login [32m200[0m 24.245 ms - 16[0m
+2024-06-21 18:34:18 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:34:22 info: [0mPOST /api/auth/login [31m500[0m 15.213 ms - 836[0m
+2024-06-21 18:34:25 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:34:43 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:34:47 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:34:49 info: [0mPOST /api/auth/login [31m500[0m 17.604 ms - 837[0m
+2024-06-21 18:34:53 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:34:54 info: [0mPOST /api/auth/login [31m500[0m 20.139 ms - 836[0m
+2024-06-21 18:35:05 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:35:06 info: [0mPOST /api/auth/login [32m200[0m 20.528 ms - 16[0m
+2024-06-21 18:35:16 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:35:18 info: [0mPOST /api/auth/login [33m401[0m 61.953 ms - 528[0m
+2024-06-21 18:37:02 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:37:05 info: [0mPOST /api/auth/login [33m401[0m 71.777 ms - 528[0m
+2024-06-21 18:39:55 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:40:00 info: [0mPOST /api/auth/login [33m401[0m 86.262 ms - 528[0m
+2024-06-21 18:40:24 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:40:54 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:40:55 info: [0mPOST /api/auth/login [33m401[0m 194.927 ms - 528[0m
+2024-06-21 18:42:25 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:42:27 info: [0mPOST /api/auth/login [32m200[0m 601.610 ms - 225[0m
+2024-06-21 18:43:11 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:43:16 info: [0mPOST /api/auth/login [32m200[0m 615.589 ms - 89[0m
+2024-06-21 18:43:36 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:43:42 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:47:06 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:47:23 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:47:43 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:48:17 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:48:28 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:48:50 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:49:14 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:49:18 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:49:23 info: [0mPOST /api/auth/login [32m200[0m 548.281 ms - 89[0m
+2024-06-21 18:49:44 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:50:17 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:50:22 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:50:45 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:50:58 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:51:36 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:52:13 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:55:52 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:57:10 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:58:10 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:58:48 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:59:12 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 18:59:47 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:00:15 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:00:18 info: [0mGET /api/user/get-all [33m403[0m 3.938 ms - 1577[0m
+2024-06-21 19:01:11 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:01:12 info: [0mGET /api/user/get-all [33m403[0m 4.008 ms - 1574[0m
+2024-06-21 19:01:27 info: [0mPOST /api/auth/login [32m200[0m 592.838 ms - 89[0m
+2024-06-21 19:01:49 info: [0mGET /api/user/get-all [31m500[0m 2.293 ms - 1598[0m
+2024-06-21 19:02:08 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:02:10 info: [0mGET /api/user/get-all [31m500[0m 14.180 ms - 1598[0m
+2024-06-21 19:02:17 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:02:19 info: [0mGET /api/user/get-all [31m500[0m 17.550 ms - 1598[0m
+2024-06-21 19:03:15 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:03:17 info: [0mGET /api/user/get-all [31m500[0m 20.537 ms - 1598[0m
+2024-06-21 19:03:32 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:03:34 info: [0mGET /api/user/get-all [31m500[0m 18.058 ms - 1598[0m
+2024-06-21 19:03:53 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:03:57 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:03:59 info: [0mGET /api/user/get-all [31m500[0m 44.724 ms - 539[0m
+2024-06-21 19:04:05 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:04:07 info: [0mGET /api/user/get-all [31m500[0m 64.707 ms - 539[0m
+2024-06-21 19:04:24 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:04:27 info: [0mGET /api/user/get-all [31m500[0m 55.295 ms - 539[0m
+2024-06-21 19:05:48 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:05:57 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:06:28 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:06:50 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:06:54 info: [0mGET /api/user/get-all [31m500[0m 61.399 ms - 539[0m
+2024-06-21 19:07:10 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:07:12 info: [0mGET /api/user/get-all [32m200[0m 275.090 ms - 3608[0m
+2024-06-21 19:07:16 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:07:18 info: [0mGET /api/user/get-all [32m200[0m 211.875 ms - 3608[0m
+2024-06-21 19:07:29 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:09:03 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:09:50 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:10:04 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:10:27 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:10:30 info: [0mGET /api/user/get-all [32m200[0m 235.896 ms - 14[0m
+2024-06-21 19:12:27 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:12:35 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:13:29 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:14:04 info: [0mPOST /api/auth/login [32m200[0m 570.529 ms - 16[0m
+2024-06-21 19:14:28 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:14:30 info: [0mPOST /api/auth/login [32m200[0m 569.834 ms - 16[0m
+2024-06-21 19:15:22 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:15:40 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:15:51 info: [0mGET /api/user/get-all [32m200[0m 231.344 ms - 14[0m
+2024-06-21 19:19:29 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:19:40 info: ======= Version: development =======
+        🚀 server listening port: 3005 🚀
+2024-06-21 19:19:44 info: [0mGET /api/user/get-all [32m200[0m 241.523 ms - 417[0m

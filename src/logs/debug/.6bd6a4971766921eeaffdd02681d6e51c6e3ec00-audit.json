@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\alexa\\CodeVStudio\\test_recrutement\\bankin-api-test\\src\\logs\\debug\\.6bd6a4971766921eeaffdd02681d6e51c6e3ec00-audit.json",
+    "files": [
+        {
+            "date": 1718985051076,
+            "name": "C:\\Users\\alexa\\CodeVStudio\\test_recrutement\\bankin-api-test\\src\\logs\\debug\\2024-06-21.log",
+            "hash": "239d6943cc7215c13874139c0f4a7f12aebc53225095d5045b5e263cd3eb202c"
+        }
+    ],
+    "hashType": "sha256"
+}

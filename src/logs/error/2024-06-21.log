@@ -1,0 +1,225 @@
+2024-06-21 17:50:51 error: uncaughtException: Server is not defined
+ReferenceError: Server is not defined
+    at new App (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:21:19)
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/server.js:2:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:526:24)
+    at async loadESM (node:internal/process/esm_loader:91:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2024-06-21 18:11:18 error: uncaughtException: Cannot destructure property 'body' of 'undefined' as it is undefined.
+TypeError: Cannot destructure property 'body' of 'undefined' as it is undefined.
+    at validator (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/middlewares/validator.js:4:37)
+    at AuthRouter.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:13:32)
+    at new AuthRouter (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:9:10)
+    at App.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/index.js:10:30)
+    at App.initializeAppRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:64:11)
+    at new App (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:24:10)
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/server.js:2:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:526:24)
+2024-06-21 18:11:51 error: uncaughtException: Cannot destructure property 'body' of 'undefined' as it is undefined.
+TypeError: Cannot destructure property 'body' of 'undefined' as it is undefined.
+    at validator (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/middlewares/validator.js:4:37)
+    at AuthRouter.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:13:32)
+    at new AuthRouter (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:9:10)
+    at App.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/index.js:10:30)
+    at App.initializeAppRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:64:11)
+    at new App (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:24:10)
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/server.js:2:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:526:24)
+2024-06-21 18:12:58 error: uncaughtException: LoginValidateSchema is not defined
+ReferenceError: LoginValidateSchema is not defined
+    at AuthRouter.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:13:50)
+    at new AuthRouter (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:9:10)
+    at App.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/index.js:10:30)
+    at App.initializeAppRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:64:11)
+    at new App (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:24:10)
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/server.js:2:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:526:24)
+    at async loadESM (node:internal/process/esm_loader:91:5)
+2024-06-21 18:13:45 error: uncaughtException: An error occurred
+Error: An error occurred
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/middlewares/validator.js:35:13
+    at Layer.handle [as handle_request] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:47:12)
+2024-06-21 18:14:41 error: uncaughtException: An error occurred
+Error: An error occurred
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/middlewares/validator.js:35:13
+    at Layer.handle [as handle_request] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:47:12)
+2024-06-21 18:15:02 error: uncaughtException: An error occurred
+Error: An error occurred
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/middlewares/validator.js:36:13
+    at Layer.handle [as handle_request] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:47:12)
+2024-06-21 18:18:41 error: uncaughtException: An error occurred
+Error: An error occurred
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/middlewares/validator.js:36:13
+    at Layer.handle [as handle_request] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:47:12)
+2024-06-21 18:18:47 error: uncaughtException: An error occurred
+Error: An error occurred
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/middlewares/validator.js:36:13
+    at Layer.handle [as handle_request] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:47:12)
+2024-06-21 18:20:04 error: uncaughtException: next is not a function
+TypeError: next is not a function
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/middlewares/validator.js:34:7
+    at Layer.handle [as handle_request] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:47:12)
+2024-06-21 18:26:43 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:216:15)
+    at Function.proto.<computed> [as post] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:521:19)
+    at AuthRouter.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:14:17)
+    at new AuthRouter (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:10:10)
+    at App.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/index.js:10:30)
+    at App.initializeAppRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:64:11)
+    at new App (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:24:10)
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/server.js:2:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+2024-06-21 18:26:59 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:216:15)
+    at Function.proto.<computed> [as post] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:521:19)
+    at AuthRouter.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:14:17)
+    at new AuthRouter (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:10:10)
+    at App.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/index.js:10:30)
+    at App.initializeAppRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:64:11)
+    at new App (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:24:10)
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/server.js:2:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+2024-06-21 18:27:26 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:216:15)
+    at Function.proto.<computed> [as post] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:521:19)
+    at AuthRouter.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:14:17)
+    at new AuthRouter (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:10:10)
+    at App.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/index.js:10:30)
+    at App.initializeAppRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:64:11)
+    at new App (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:24:10)
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/server.js:2:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+2024-06-21 18:28:02 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:216:15)
+    at Function.proto.<computed> [as post] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:521:19)
+    at AuthRouter.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:14:17)
+    at new AuthRouter (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:10:10)
+    at App.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/index.js:10:30)
+    at App.initializeAppRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:64:11)
+    at new App (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:24:10)
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/server.js:2:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+2024-06-21 18:28:24 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:216:15)
+    at Function.proto.<computed> [as post] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:521:19)
+    at AuthRouter.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:14:17)
+    at new AuthRouter (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:10:10)
+    at App.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/index.js:10:30)
+    at App.initializeAppRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:64:11)
+    at new App (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:24:10)
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/server.js:2:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+2024-06-21 18:32:49 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:216:15)
+    at Function.proto.<computed> [as post] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:521:19)
+    at AuthRouter.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:14:17)
+    at new AuthRouter (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:10:10)
+    at App.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/index.js:10:30)
+    at App.initializeAppRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:64:11)
+    at new App (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:24:10)
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/server.js:2:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+2024-06-21 18:32:57 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\route.js:216:15)
+    at Function.proto.<computed> [as post] (C:\Users\alexa\CodeVStudio\test_recrutement\bankin-api-test\node_modules\express\lib\router\index.js:521:19)
+    at AuthRouter.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:14:17)
+    at new AuthRouter (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/auth.js:10:10)
+    at App.initializeRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/index.js:10:30)
+    at App.initializeAppRoutes (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:64:11)
+    at new App (file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/app.js:24:10)
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/server.js:2:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+2024-06-21 18:52:52 error: uncaughtException: AuthRouter is not defined
+ReferenceError: AuthRouter is not defined
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/user.js:22:16
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:526:24)
+    at async loadESM (node:internal/process/esm_loader:91:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2024-06-21 18:53:31 error: uncaughtException: AuthRouter is not defined
+ReferenceError: AuthRouter is not defined
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/user.js:22:16
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:526:24)
+    at async loadESM (node:internal/process/esm_loader:91:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
+2024-06-21 18:55:24 error: uncaughtException: AuthRouter is not defined
+ReferenceError: AuthRouter is not defined
+    at file:///C:/Users/alexa/CodeVStudio/test_recrutement/bankin-api-test/src/routes/user.js:22:16
+    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:526:24)
+    at async loadESM (node:internal/process/esm_loader:91:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
